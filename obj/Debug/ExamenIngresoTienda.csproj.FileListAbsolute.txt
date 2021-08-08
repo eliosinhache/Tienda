@@ -1,0 +1,32 @@
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.exe.config
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.pdb
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.AssemblyReference.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.Form1.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.Properties.Resources.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.GenerateResource.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.pdb
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.exe.config
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.exe
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\bin\Debug\ExamenIngresoTienda.pdb
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.Form1.resources
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.Properties.Resources.resources
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.Vista.ImpresionHistorial.resources
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.GenerateResource.cache
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.CoreCompileInputs.cache
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.exe
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.pdb
+C:\Users\Elio\Desktop\Examen Ingreso\ExamenIngresoTienda\obj\Debug\ExamenIngresoTienda.csproj.AssemblyReference.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Debug\ExamenIngresoTienda.exe.config
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Debug\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Debug\ExamenIngresoTienda.pdb
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.csproj.AssemblyReference.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.Form1.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.Properties.Resources.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.Vista.ImpresionHistorial.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.csproj.GenerateResource.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Debug\ExamenIngresoTienda.pdb
