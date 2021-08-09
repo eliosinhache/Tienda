@@ -1,0 +1,14 @@
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Release\ExamenIngresoTienda.exe.config
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Release\ExamenIngresoTienda.exe.manifest
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Release\ExamenIngresoTienda.application
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Release\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\bin\Release\ExamenIngresoTienda.pdb
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.Form1.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.Properties.Resources.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.Vista.ImpresionHistorial.resources
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.csproj.GenerateResource.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.exe.manifest
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.application
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.exe
+D:\DESARROLLO\Csharp\ExamenIngresoTienda\Tienda\obj\Release\ExamenIngresoTienda.pdb

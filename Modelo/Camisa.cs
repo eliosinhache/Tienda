@@ -8,7 +8,6 @@ namespace ExamenIngresoTienda.Modelo
 {
     class Camisa : Prenda
     {
-        private int codCamisa;
         private string tipoManga;
         private bool cuelloMao;
         public Camisa(string tipoManga, bool cuelloMao, string calidad, float precio, int cantidad )
